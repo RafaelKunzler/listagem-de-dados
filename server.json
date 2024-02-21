@@ -1,0 +1,856 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "amountOfVideos": 142
+  },
+  {
+      "title": "Angular",
+      "amountOfVideos": 98
+  },
+  {
+      "title": "Vue.js",
+      "amountOfVideos": 120
+  },
+  {
+      "title": "Ember.js",
+      "amountOfVideos": 55
+  },
+  {
+      "title": "Svelte",
+      "amountOfVideos": 30
+  },
+  {
+      "title": "Backbone.js",
+      "amountOfVideos": 15
+  },
+  {
+      "title": "jQuery",
+      "amountOfVideos": 75
+  },
+  {
+      "title": "D3.js",
+      "amountOfVideos": 45
+  },
+  {
+      "title": "Express.js",
+      "amountOfVideos": 90
+  },
+  {
+      "title": "Node.js",
+      "amountOfVideos": 200
+  },
+  {
+      "title": "MongoDB",
+      "amountOfVideos": 160
+  },
+  {
+      "title": "MySQL",
+      "amountOfVideos": 180
+  },
+  {
+      "title": "PostgreSQL",
+      "amountOfVideos": 150
+  },
+  {
+      "title": "SQLite",
+      "amountOfVideos": 50
+  },
+  {
+      "title": "Firebase",
+      "amountOfVideos": 80
+  },
+  {
+      "title": "GraphQL",
+      "amountOfVideos": 110
+  },
+  {
+      "title": "Apollo GraphQL",
+      "amountOfVideos": 25
+  },
+  {
+      "title": "RESTful APIs",
+      "amountOfVideos": 100
+  },
+  {
+      "title": "WebSocket",
+      "amountOfVideos": 35
+  },
+  {
+      "title": "WebRTC",
+      "amountOfVideos": 20
+  },
+  {
+      "title": "OAuth",
+      "amountOfVideos": 70
+  },
+  {
+      "title": "JWT",
+      "amountOfVideos": 40
+  },
+  {
+      "title": "CI/CD",
+      "amountOfVideos": 65
+  },
+  {
+      "title": "Docker",
+      "amountOfVideos": 85
+  },
+  {
+      "title": "Kubernetes",
+      "amountOfVideos": 55
+  },
+  {
+      "title": "AWS",
+      "amountOfVideos": 120
+  },
+  {
+      "title": "Google Cloud",
+      "amountOfVideos": 90
+  },
+  {
+      "title": "Azure",
+      "amountOfVideos": 75
+  },
+  {
+      "title": "Heroku",
+      "amountOfVideos": 45
+  },
+  {
+      "title": "Netlify",
+      "amountOfVideos": 30
+  },
+  {
+      "title": "Vercel",
+      "amountOfVideos": 25
+  },
+  {
+      "title": "Git",
+      "amountOfVideos": 150
+  },
+  {
+      "title": "GitHub",
+      "amountOfVideos": 180
+  },
+  {
+      "title": "GitLab",
+      "amountOfVideos": 100
+  },
+  {
+      "title": "Bitbucket",
+      "amountOfVideos": 70
+  },
+  {
+      "title": "Subversion",
+      "amountOfVideos": 20
+  },
+  {
+      "title": "Mercurial",
+      "amountOfVideos": 15
+  },
+  {
+      "title": "Agile Methodologies",
+      "amountOfVideos": 110
+  },
+  {
+      "title": "Scrum",
+      "amountOfVideos": 80
+  },
+  {
+      "title": "Kanban",
+      "amountOfVideos": 65
+  },
+  {
+      "title": "Lean Software Development",
+      "amountOfVideos": 40
+  },
+  {
+      "title": "Extreme Programming (XP)",
+      "amountOfVideos": 30
+  },
+  {
+      "title": "DevOps",
+      "amountOfVideos": 50
+  },
+  {
+      "title": "Continuous Integration",
+      "amountOfVideos": 35
+  },
+  {
+      "title": "Continuous Deployment",
+      "amountOfVideos": 25
+  },
+  {
+      "title": "Infrastructure as Code",
+      "amountOfVideos": 45
+  },
+  {
+      "title": "Microservices",
+      "amountOfVideos": 60
+  },
+  {
+      "title": "Serverless Architecture",
+      "amountOfVideos": 55
+  },
+  {
+      "title": "Containerization",
+      "amountOfVideos": 40
+  },
+  {
+      "title": "CI/CD Pipelines",
+      "amountOfVideos": 30
+  },
+  {
+      "title": "Monitoring and Observability",
+      "amountOfVideos": 20
+  },
+  {
+      "title": "Logging",
+      "amountOfVideos": 15
+  },
+  {
+      "title": "Metrics",
+      "amountOfVideos": 25
+  },
+  {
+      "title": "Tracing",
+      "amountOfVideos": 10
+  },
+  {
+      "title": "Alerting",
+      "amountOfVideos": 20
+  },
+  {
+      "title": "Anomaly Detection",
+      "amountOfVideos": 10
+  },
+  {
+      "title": "Incident Management",
+      "amountOfVideos": 15
+  },
+  {
+      "title": "SRE (Site Reliability Engineering)",
+      "amountOfVideos": 30
+  },
+  {
+      "title": "Chaos Engineering",
+      "amountOfVideos": 20
+  },
+  {
+      "title": "Fault Injection",
+      "amountOfVideos": 10
+  },
+  {
+      "title": "Game Development",
+      "amountOfVideos": 80
+  },
+  {
+      "title": "Unity",
+      "amountOfVideos": 120
+  },
+  {
+      "title": "Unreal Engine",
+      "amountOfVideos": 90
+  },
+  {
+      "title": "Godot Engine",
+      "amountOfVideos": 60
+  },
+  {
+      "title": "Game Design",
+      "amountOfVideos": 110
+  },
+  {
+      "title": "Game Art",
+      "amountOfVideos": 45
+  },
+  {
+      "title": "3D Modeling",
+      "amountOfVideos": 55
+  },
+  {
+      "title": "Animation",
+      "amountOfVideos": 35
+  },
+  {
+      "title": "Character Design",
+      "amountOfVideos": 25
+  },
+  {
+      "title": "Level Design",
+      "amountOfVideos": 30
+  },
+  {
+      "title": "Sound Design",
+      "amountOfVideos": 20
+  },
+  {
+    "title": "React",
+    "amountOfVideos": 142
+},
+{
+    "title": "Angular",
+    "amountOfVideos": 98
+},
+{
+    "title": "Vue.js",
+    "amountOfVideos": 120
+},
+{
+    "title": "Ember.js",
+    "amountOfVideos": 55
+},
+{
+    "title": "Svelte",
+    "amountOfVideos": 30
+},
+{
+    "title": "Backbone.js",
+    "amountOfVideos": 15
+},
+{
+    "title": "jQuery",
+    "amountOfVideos": 75
+},
+{
+    "title": "D3.js",
+    "amountOfVideos": 45
+},
+{
+    "title": "Express.js",
+    "amountOfVideos": 90
+},
+{
+    "title": "Node.js",
+    "amountOfVideos": 200
+},
+{
+    "title": "MongoDB",
+    "amountOfVideos": 160
+},
+{
+    "title": "MySQL",
+    "amountOfVideos": 180
+},
+{
+    "title": "PostgreSQL",
+    "amountOfVideos": 150
+},
+{
+    "title": "SQLite",
+    "amountOfVideos": 50
+},
+{
+    "title": "Firebase",
+    "amountOfVideos": 80
+},
+{
+    "title": "GraphQL",
+    "amountOfVideos": 110
+},
+{
+    "title": "Apollo GraphQL",
+    "amountOfVideos": 25
+},
+{
+    "title": "RESTful APIs",
+    "amountOfVideos": 100
+},
+{
+    "title": "WebSocket",
+    "amountOfVideos": 35
+},
+{
+    "title": "WebRTC",
+    "amountOfVideos": 20
+},
+{
+    "title": "OAuth",
+    "amountOfVideos": 70
+},
+{
+    "title": "JWT",
+    "amountOfVideos": 40
+},
+{
+    "title": "CI/CD",
+    "amountOfVideos": 65
+},
+{
+    "title": "Docker",
+    "amountOfVideos": 85
+},
+{
+    "title": "Kubernetes",
+    "amountOfVideos": 55
+},
+{
+    "title": "AWS",
+    "amountOfVideos": 120
+},
+{
+    "title": "Google Cloud",
+    "amountOfVideos": 90
+},
+{
+    "title": "Azure",
+    "amountOfVideos": 75
+},
+{
+    "title": "Heroku",
+    "amountOfVideos": 45
+},
+{
+    "title": "Netlify",
+    "amountOfVideos": 30
+},
+{
+    "title": "Vercel",
+    "amountOfVideos": 25
+},
+{
+    "title": "Git",
+    "amountOfVideos": 150
+},
+{
+    "title": "GitHub",
+    "amountOfVideos": 180
+},
+{
+    "title": "GitLab",
+    "amountOfVideos": 100
+},
+{
+    "title": "Bitbucket",
+    "amountOfVideos": 70
+},
+{
+    "title": "Subversion",
+    "amountOfVideos": 20
+},
+{
+    "title": "Mercurial",
+    "amountOfVideos": 15
+},
+{
+    "title": "Agile Methodologies",
+    "amountOfVideos": 110
+},
+{
+    "title": "Scrum",
+    "amountOfVideos": 80
+},
+{
+    "title": "Kanban",
+    "amountOfVideos": 65
+},
+{
+    "title": "Lean Software Development",
+    "amountOfVideos": 40
+},
+{
+    "title": "Extreme Programming (XP)",
+    "amountOfVideos": 30
+},
+{
+    "title": "DevOps",
+    "amountOfVideos": 50
+},
+{
+    "title": "Continuous Integration",
+    "amountOfVideos": 35
+},
+{
+    "title": "Continuous Deployment",
+    "amountOfVideos": 25
+},
+{
+    "title": "Infrastructure as Code",
+    "amountOfVideos": 45
+},
+{
+    "title": "Microservices",
+    "amountOfVideos": 60
+},
+{
+    "title": "Serverless Architecture",
+    "amountOfVideos": 55
+},
+{
+    "title": "Containerization",
+    "amountOfVideos": 40
+},
+{
+    "title": "CI/CD Pipelines",
+    "amountOfVideos": 30
+},
+{
+    "title": "Monitoring and Observability",
+    "amountOfVideos": 20
+},
+{
+    "title": "Logging",
+    "amountOfVideos": 15
+},
+{
+    "title": "Metrics",
+    "amountOfVideos": 25
+},
+{
+    "title": "Tracing",
+    "amountOfVideos": 10
+},
+{
+    "title": "Alerting",
+    "amountOfVideos": 20
+},
+{
+    "title": "Anomaly Detection",
+    "amountOfVideos": 10
+},
+{
+    "title": "Incident Management",
+    "amountOfVideos": 15
+},
+{
+    "title": "SRE (Site Reliability Engineering)",
+    "amountOfVideos": 30
+},
+{
+    "title": "Chaos Engineering",
+    "amountOfVideos": 20
+},
+{
+    "title": "Fault Injection",
+    "amountOfVideos": 10
+},
+{
+    "title": "Game Development",
+    "amountOfVideos": 80
+},
+{
+    "title": "Unity",
+    "amountOfVideos": 120
+},
+{
+    "title": "Unreal Engine",
+    "amountOfVideos": 90
+},
+{
+    "title": "Godot Engine",
+    "amountOfVideos": 60
+},
+{
+    "title": "Game Design",
+    "amountOfVideos": 110
+},
+{
+    "title": "Game Art",
+    "amountOfVideos": 45
+},
+{
+    "title": "3D Modeling",
+    "amountOfVideos": 55
+},
+{
+    "title": "Animation",
+    "amountOfVideos": 35
+},
+{
+    "title": "Character Design",
+    "amountOfVideos": 25
+},
+{
+    "title": "Level Design",
+    "amountOfVideos": 30
+},
+{
+    "title": "Sound Design",
+    "amountOfVideos": 20
+},
+{
+  "title": "React",
+  "amountOfVideos": 142
+},
+{
+  "title": "Angular",
+  "amountOfVideos": 98
+},
+{
+  "title": "Vue.js",
+  "amountOfVideos": 120
+},
+{
+  "title": "Ember.js",
+  "amountOfVideos": 55
+},
+{
+  "title": "Svelte",
+  "amountOfVideos": 30
+},
+{
+  "title": "Backbone.js",
+  "amountOfVideos": 15
+},
+{
+  "title": "jQuery",
+  "amountOfVideos": 75
+},
+{
+  "title": "D3.js",
+  "amountOfVideos": 45
+},
+{
+  "title": "Express.js",
+  "amountOfVideos": 90
+},
+{
+  "title": "Node.js",
+  "amountOfVideos": 200
+},
+{
+  "title": "MongoDB",
+  "amountOfVideos": 160
+},
+{
+  "title": "MySQL",
+  "amountOfVideos": 180
+},
+{
+  "title": "PostgreSQL",
+  "amountOfVideos": 150
+},
+{
+  "title": "SQLite",
+  "amountOfVideos": 50
+},
+{
+  "title": "Firebase",
+  "amountOfVideos": 80
+},
+{
+  "title": "GraphQL",
+  "amountOfVideos": 110
+},
+{
+  "title": "Apollo GraphQL",
+  "amountOfVideos": 25
+},
+{
+  "title": "RESTful APIs",
+  "amountOfVideos": 100
+},
+{
+  "title": "WebSocket",
+  "amountOfVideos": 35
+},
+{
+  "title": "WebRTC",
+  "amountOfVideos": 20
+},
+{
+  "title": "OAuth",
+  "amountOfVideos": 70
+},
+{
+  "title": "JWT",
+  "amountOfVideos": 40
+},
+{
+  "title": "CI/CD",
+  "amountOfVideos": 65
+},
+{
+  "title": "Docker",
+  "amountOfVideos": 85
+},
+{
+  "title": "Kubernetes",
+  "amountOfVideos": 55
+},
+{
+  "title": "AWS",
+  "amountOfVideos": 120
+},
+{
+  "title": "Google Cloud",
+  "amountOfVideos": 90
+},
+{
+  "title": "Azure",
+  "amountOfVideos": 75
+},
+{
+  "title": "Heroku",
+  "amountOfVideos": 45
+},
+{
+  "title": "Netlify",
+  "amountOfVideos": 30
+},
+{
+  "title": "Vercel",
+  "amountOfVideos": 25
+},
+{
+  "title": "Git",
+  "amountOfVideos": 150
+},
+{
+  "title": "GitHub",
+  "amountOfVideos": 180
+},
+{
+  "title": "GitLab",
+  "amountOfVideos": 100
+},
+{
+  "title": "Bitbucket",
+  "amountOfVideos": 70
+},
+{
+  "title": "Subversion",
+  "amountOfVideos": 20
+},
+{
+  "title": "Mercurial",
+  "amountOfVideos": 15
+},
+{
+  "title": "Agile Methodologies",
+  "amountOfVideos": 110
+},
+{
+  "title": "Scrum",
+  "amountOfVideos": 80
+},
+{
+  "title": "Kanban",
+  "amountOfVideos": 65
+},
+{
+  "title": "Lean Software Development",
+  "amountOfVideos": 40
+},
+{
+  "title": "Extreme Programming (XP)",
+  "amountOfVideos": 30
+},
+{
+  "title": "DevOps",
+  "amountOfVideos": 50
+},
+{
+  "title": "Continuous Integration",
+  "amountOfVideos": 35
+},
+{
+  "title": "Continuous Deployment",
+  "amountOfVideos": 25
+},
+{
+  "title": "Infrastructure as Code",
+  "amountOfVideos": 45
+},
+{
+  "title": "Microservices",
+  "amountOfVideos": 60
+},
+{
+  "title": "Serverless Architecture",
+  "amountOfVideos": 55
+},
+{
+  "title": "Containerization",
+  "amountOfVideos": 40
+},
+{
+  "title": "CI/CD Pipelines",
+  "amountOfVideos": 30
+},
+{
+  "title": "Monitoring and Observability",
+  "amountOfVideos": 20
+},
+{
+  "title": "Logging",
+  "amountOfVideos": 15
+},
+{
+  "title": "Metrics",
+  "amountOfVideos": 25
+},
+{
+  "title": "Tracing",
+  "amountOfVideos": 10
+},
+{
+  "title": "Alerting",
+  "amountOfVideos": 20
+},
+{
+  "title": "Anomaly Detection",
+  "amountOfVideos": 10
+},
+{
+  "title": "Incident Management",
+  "amountOfVideos": 15
+},
+{
+  "title": "SRE (Site Reliability Engineering)",
+  "amountOfVideos": 30
+},
+{
+  "title": "Chaos Engineering",
+  "amountOfVideos": 20
+},
+{
+  "title": "Fault Injection",
+  "amountOfVideos": 10
+},
+{
+  "title": "Game Development",
+  "amountOfVideos": 80
+},
+{
+  "title": "Unity",
+  "amountOfVideos": 120
+},
+{
+  "title": "Unreal Engine",
+  "amountOfVideos": 90
+},
+{
+  "title": "Godot Engine",
+  "amountOfVideos": 60
+},
+{
+  "title": "Game Design",
+  "amountOfVideos": 110
+},
+{
+  "title": "Game Art",
+  "amountOfVideos": 45
+},
+{
+  "title": "3D Modeling",
+  "amountOfVideos": 55
+},
+{
+  "title": "Animation",
+  "amountOfVideos": 35
+},
+{
+  "title": "Character Design",
+  "amountOfVideos": 25
+},
+{
+  "title": "Level Design",
+  "amountOfVideos": 30
+},
+{
+  "title": "Sound Design",
+  "amountOfVideos": 20
+}
+  ]
+}

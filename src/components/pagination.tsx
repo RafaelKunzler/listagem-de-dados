@@ -16,18 +16,19 @@ interface PaginationProps {
 }
 
 export function Pagination({ items, page, pages }: PaginationProps) {
+
   const [, setSearchParams] = useSearchParams()
 
-  function firstPage() {
+  function firstPage(){
     setSearchParams(params => {
       params.set('page', '1')
 
       return params
     })
   }
-
-  function previousPage() {
-    if (page - 1 <= 0) {
+  
+  function previousPage(){
+    if(page - 1 <= 0){
       return
     }
 
@@ -37,9 +38,9 @@ export function Pagination({ items, page, pages }: PaginationProps) {
       return params
     })
   }
-
-  function nextPage() {
-    if (page + 1 > pages) {
+  
+  function nextPage(){
+    if(page +  1 > pages){
       return
     }
 
@@ -50,14 +51,14 @@ export function Pagination({ items, page, pages }: PaginationProps) {
     })
   }
 
-  function lastPage() {
+  function lastPage(){
     setSearchParams(params => {
       params.set('page', String(pages))
 
       return params
     })
   }
-
+ 
   return (
     <div className="flex text-sm items-center justify-between text-zinc-500">
       <span>Showing 10 of {items} items</span>
